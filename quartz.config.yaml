@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: 电子信息工程知识晶体
+  pageTitle: 建议和修改
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -12,8 +12,6 @@ configuration:
     - private
     - templates
     - .obsidian
-  enableGitHubEdit: true
-  GitHubLink: https://github.com/4011123/my-knowledge-graph/tree/main/content
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
