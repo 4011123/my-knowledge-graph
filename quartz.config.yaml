@@ -12,6 +12,8 @@ configuration:
     - private
     - templates
     - .obsidian
+  enableGitHubEdit: true
+  GitHubLink: https://github.com/4011123/my-knowledge-graph/tree/main/content
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
